@@ -1,0 +1,6 @@
+9, 13, 11, 13, 1
+van benne 13: van
+vizsgált szám: 11
+|szám| osztói: prím szám
+vizsgált szám: 12345689
+|szám| osztói: 17, 751, 967, 12767, 16439, 726217
